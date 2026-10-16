@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новини</string>
+
+    <string name="nav_home">Головна</string>
+    <string name="nav_categories">Категорії</string>
+
+    <string name="search_placeholder">Пошук новин</string>
+    <string name="search_clear">Очистити пошук</string>
+    <string name="home_top_headlines">Головні новини</string>
+    <string name="home_search_results">Результати за запитом «%1$s»</string>
+
+    <string name="categories_title">Категорії</string>
+    <string name="category_business">Бізнес</string>
+    <string name="category_entertainment">Розваги</string>
+    <string name="category_general">Загальне</string>
+    <string name="category_health">Здоров’я</string>
+    <string name="category_science">Наука</string>
+    <string name="category_sports">Спорт</string>
+    <string name="category_technology">Технології</string>
+
+    <string name="empty_search_title">Нічого не знайдено</string>
+    <string name="empty_search_message">Спробуйте інші ключові слова.</string>
+    <string name="empty_feed_title">Новин поки немає</string>
+    <string name="empty_feed_message">Зазирніть трохи пізніше.</string>
+
+    <string name="error_offline_title">Немає з’єднання</string>
+    <string name="error_offline_message">Перевірте підключення до інтернету та спробуйте ще раз.</string>
+    <string name="error_api_key_title">Потрібен API-ключ</string>
+    <string name="error_api_key_message">Додайте дійсний ключ NewsAPI як NEWS_API_KEY у local.properties і перезберіть застосунок.</string>
+    <string name="error_rate_limited_title">Ліміт запитів вичерпано</string>
+    <string name="error_rate_limited_message">Безкоштовний план NewsAPI дозволяє 100 запитів на добу. Спробуйте пізніше.</string>
+    <string name="error_generic_title">Щось пішло не так</string>
+    <string name="error_generic_message">Спробуйте ще раз.</string>
+
+    <string name="retry">Спробувати ще</string>
+    <string name="refresh_failed">Не вдалося оновити новини</string>
+    <string name="load_more_failed">Не вдалося завантажити більше новин</string>
+</resources>
